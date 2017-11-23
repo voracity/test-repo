@@ -1,1 +1,1 @@
-Here is a new file.
+Here is a new file. Clashing change.
